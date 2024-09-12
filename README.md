@@ -21,6 +21,6 @@ La lista sin duplicados es:  [3, 5, 1, 4, 7, 8]
 ```
 ### Aplicaciones en Ingeniería de Datos
 ***En el ámbito de la ingeniería de datos, este código puede ser particularmente útil en procesos de limpieza y preprocesamiento de datos. Al eliminar duplicados de una lista o conjunto de datos, es posible optimizar la cantidad de información que se procesa, reduciendo redundancias y mejorando la calidad de los datos. Este tipo de operaciones es esencial en tareas como la deduplicación de registros o la normalización de datos, permitiendo un análisis más preciso y eficiente.***
-### Consideraciones:
+### <ins>Consideraciones:</ins>
 Este enfoque garantiza que los elementos únicos de la lista se mantengan en el mismo orden en el que aparecen por primera vez en la lista original.
 El código es adecuado para listas pequeñas o medianas, pero en casos de grandes volúmenes de datos, se recomienda considerar soluciones más eficientes, como el uso de estructuras de datos especializadas (por ejemplo, conjuntos en Python).
